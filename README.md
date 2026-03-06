@@ -268,15 +268,14 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Project Link: [https://github.com/yourusername/atmosphere-count-calculator](https://github.com/yourusername/atmosphere-count-calculator)
+Om Gedam
 
-## Future Enhancements
+GitHub: @itsomg134
 
-- [ ] Add support for more weather parameters (UV index, pollen count)
-- [ ] Implement machine learning for improved sentiment analysis
-- [ ] Create web dashboard for visualization
-- [ ] Add historical data analysis
-- [ ] Support for multiple languages in news analysis
-- [ ] Mobile app integration
-- [ ] Real-time alert system for extreme conditions
+Email: omgedam123098@gmail.com
 
+Twitter (X): @omgedam
+
+LinkedIn: Om Gedam
+
+Portfolio: https://ogworks.lovable.app
