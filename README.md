@@ -23,9 +23,9 @@ The Atmosphere Count Calculator is a Python-based tool that provides a quantitat
 - **Weather data**: Temperature, humidity, pressure, wind speed, visibility, and air quality
 - **News sentiment**: Impact of current events and headlines on the overall atmosphere
 
-The result is a score from 0-100 that helps users understand the current environmental and social conditions of any location.
+![Screenshot_6-3-2026_23131_127 0 0 1](https://github.com/user-attachments/assets/ccc8c44f-cbb1-4aa9-ac2a-234c91daab3f)
 
-## Features
+The result is a score from 0-100 that helps users understand the current environmental and social conditions of any location.
 
 ### Core Capabilities
 - **Weather Analysis**: Evaluates multiple weather parameters for comfort levels
